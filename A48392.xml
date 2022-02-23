@@ -1,0 +1,453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of James commonly called Collonel Turner executed at Lime-street end Ianua[ry] the 21. 1663. for a burglary and fellony committed in the house of Mr. Francis Tryon of Limestreet, Merchant. Licensed and entred.</title>
+            <author>Turner, James, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48392</idno>
+            <idno type="STC">Wing L1997</idno>
+            <idno type="STC">ESTC R218960</idno>
+            <idno type="EEBO-CITATION">99830509</idno>
+            <idno type="PROQUEST">99830509</idno>
+            <idno type="VID">34961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2108:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of James commonly called Collonel Turner executed at Lime-street end Ianua[ry] the 21. 1663. for a burglary and fellony committed in the house of Mr. Francis Tryon of Limestreet, Merchant. Licensed and entred.</title>
+                  <author>Turner, James, d. 1664.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the originals at the British Library and the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, James, d. 1664 --  Early works to 1800.</term>
+               <term>Tryon, Francis --  Early works to 1800.</term>
+               <term>Executions and executioners --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34961:1" rendition="simple:additions"/>
+            <p> Life and Death OF JAMES Commonly called Collonel Turner</p>
+            <p>Executed at <hi>Lime-ſtreet</hi> end <hi>Ianua</hi> the 21. 1663. For a Burglary and Fellony com<g ref="char:EOLhyphen"/>mitted in the Houſe of Mr. <hi>Francis Tryon</hi> of <hi>Limeſtreet,</hi> Merchant.</p>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>Licenſed and Entred.</p>
+               </body>
+            </floatingText>
+            <q>
+               <hi>Quos perdere vult</hi> Jupiter <hi>hos prius dementat.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for T. J. 1663.</p>
+            <pb facs="tcp:34961:2" rendition="simple:additions"/>
+            <pb facs="tcp:34961:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34961:3"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34961:3"/>
+            <head>To the READER.</head>
+            <p>THE World having long look'd upon this unhappy Perſon, as an Object of Wonder, and a kind of Riddle, it will be very ſatisfactory to give an account of him, as to his <hi>way</hi> of <hi>living,</hi> which hath brought him to this <hi>manner</hi> of <hi>dying.</hi>
+            </p>
+            <p>There are questionleſs ſome Concealments and Depths, which will never be fathomed here by any Line or Reſearch, unleſs Providence by its. All-ſeeing Eye ſhall unfold the Myſtery. For it muſt be granted, that ſome ſuch reſer<g ref="char:EOLhyphen"/>ved and harboured Evil, (not yet producible) hath by this Infatuation in the late Burglary committed by him, brought him to this Exemplary and Ignominious Death.</p>
+            <pb facs="tcp:34961:4"/>
+            <p> His Exceſſes indeed lay the greateſt and neareſt Claim to it; and it will be Charity to believe ſo while no worſe appears. In the mean time Humanity commands us to pitty Him, in his Perſon, and in his Family, &amp; Children, and to indulge as much as will be allowed to Truth in what <hi>Criminal</hi> ſoever.</p>
+            <p>His Offences have put him beyond all remedy of Excuſe, or Favour, as to his Story<g ref="char:punc">▪</g> but becauſe in ſuch calami<g ref="char:EOLhyphen"/>tous Caſes, more is commonly charged than proved; the main Concerns of his Life hitherto diſputed, are now cleared and manifeſted to an impartial View.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:34961:4"/>
+            <head>THE LIFE, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S there is a time for all things, ſo moſt of all certainly, for the end and diſco<g ref="char:EOLhyphen"/>very of wickedneſs; nor doth divine vengeance ſleep when it winks for a while at the ſecret impieties of Men: Indeed Publike and notorious debaucheries carry with them their own puniſhment, in that they ſo boyſterouſly and tempeſtuouſly agitate and diſtract the mind, and diſorder and diſcompoſe the body, ſo that the whole Man is like a raging ſtorming Sea, that threatens Heaven with its foaming Floods, but im<g ref="char:EOLhyphen"/>mediately with diſmal noiſe deſcends precipitantly to the bottom of its depth.</p>
+            <pb n="2" facs="tcp:34961:5"/>
+            <p> The Bluſter and ſtirre that this Man made in the World is hereby more fully repreſented. A Man that had never the happineſs of ſo much time, nor any ſuch ſober deliberate thoughts, as to conſider Himſelf: perpetually hurried from one irregular and unruly de<g ref="char:EOLhyphen"/>ſign and buſineſs to another, as Waves break in a Tempeſt, and ſo long toſt between the Rocks of Covetouſneſs and Ambition, till the fraught of his projections ſplit and periſhed, and he imbarqued in them, muſt needs run the ſame Reſque and For<g ref="char:EOLhyphen"/>tune.</p>
+            <p>In nothing was he ſo happy as Mad men, whom he neareſt reſembled, for they diſ incumbered of the World, and raving but by fits, are eaſily ſatisfied with ſhort the pittances of allowance and neceſſaries, which ſimple and plain Nature reſtored in a manner by the loſs of (our too much depraved) reaſon, judg<g ref="char:EOLhyphen"/>eth requiſite to ſuſtenance and preſervation: whereas the intemperance and wild Luxury of this perſon was a Hectique and habitual diſtemper which deprived him of the right uſe of his reaſon, and kept it in a con<g ref="char:EOLhyphen"/>tinual and conſtant vaſſalage to his vitiated ſenſe and appetite, to ſuch exceſſes of riot, that he rather vomi<g ref="char:EOLhyphen"/>ted than ſpoke or uttered his buſineſs, when the world and its concernments (to ſay to worſe) by fault of a right digeſtion, boyled and froathed out of his mouth.</p>
+            <p>Yet as Mad and Phrenetick perſons in <hi>Turkey</hi> are held in great veneration, for that they ſuppoſe them to be raviſhed with ſome Divine and excellent objects,
+<pb n="3" facs="tcp:34961:5"/> and inſpired in their fits from above, ſo by a kind of antiperriſtaſis, or by contraries, did the vulgat ob<g ref="char:EOLhyphen"/>ſervation regard this man as a perſon ſublimed in this Humour, and Enthuſiaſted with ſome pragmatical Spirit and Agent, which in the fumes of his Ebriety did dictate to him ſome ſtrange and lucky things, by which he ported and braved it in the World.</p>
+            <p>But for the full diſcovery of thoſe means and me<g ref="char:EOLhyphen"/>thods (if there were any ſuch thing in his actions, or the menage of his life) whereby he carried on and maintained that expence and quality he pretended to, we will in this Narrative deduce him from his Origi<g ref="char:EOLhyphen"/>nals, and through the whole courſe of his life to this fatal period thereof, aſſuring the Reader that this is a perfect and juſt account of Him, collected by a per<g ref="char:EOLhyphen"/>ſon that hath long obſerved his practices, and did conclude that the winding up of his ſtory would one day require ſuch a Publication.</p>
+            <p>He was born at <hi>Hadly</hi> near <hi>Barnet</hi> in the County of <hi>Middleſex,</hi> His Father Miniſter of the place, and re<g ref="char:EOLhyphen"/>puted a very honeſt man, but none of the ableſt Preachers, who gave this his Son liberal education, and afterwards put him to Prentice to a Lace-man at the Lower end of <hi>Cheapſide</hi> near the <hi>Miter Tavern,</hi> where he ſerved his time, but with ſuch diſturbance to his Maſter and the Neighbours, by his ſturdy and not to be governed behaviour, that the whole time of his Apprentiſhip was ſpent (like green wood, ſmo<g ref="char:EOLhyphen"/>thering it ſelf out without Flame or Heat) in a ſober and unprofitable ſervice, &amp; ſo the perpetual vexation of
+<pb n="4" facs="tcp:34961:6"/> the people, who argued away the moſt part of it in an<g ref="char:EOLhyphen"/>ſwer to his Wrangles, and croſs-grain'd Quarrells, Enmities, and Cavils.</p>
+            <p>Nor was he leſs vexatious and litigious, when he ſet up for himſelf in the <hi>Round Court</hi> in St. <hi>Martins le Grand,</hi> by the Shooe-makers, where he had not been long, before he had raiſed a Civil War among the Inhabitants; as if <hi>Piece-Broaking</hi> had been his Trade, and he had dealt in nothing but Rents and Diviſions: he himſelf engaged againſt all, and every body almoſt engaged againſt him, and with one another, by rea<g ref="char:EOLhyphen"/>ſon of his perplexing and buſie Intereſt: nor is there any other memorial of his being, but his In<g ref="char:EOLhyphen"/>fection he hath left behind him ever ſince; the Feuds, Differences, and Quarrells he commenced here (as if his little skill in Law had intayled them upon the place) continuing in ſome ſort to this very day.</p>
+            <p>But a greater and more lamentable Diſſention ari<g ref="char:EOLhyphen"/>ſing in the Kingdom, and abating thoſe leſſer Animo<g ref="char:EOLhyphen"/>ſities (as a Conflagration dimns leſſer Lights and renders them unobſerved) this private <hi>Boute-feu</hi> (whether ſcorning to be out-done by men of croſſer &amp; perverſer Principles, and in oppoſition, and meer thwarting to their Practices: or by ſome contrary motion of the ſame Malign Planets, which influenced our unnatural Breaches: or being better informed by the notoriety of that Rebellious Miſchief) left his Shop and abode in St. <hi>Martins</hi> (having publiquely declared himſelf a Royaliſt, againſt the ſtream of the madd Vulgar, that ſwarmed to the Defence of the
+<pb n="5" facs="tcp:34961:6"/> CAUSE) and betook himſelf to the Kings Armies; where, by reaſon he was a <hi>Londoner,</hi> he was the more welcome; but of any Preferment he got thereby, ei<g ref="char:EOLhyphen"/>ther preſent or future, we never could recover any In<g ref="char:EOLhyphen"/>formation. But of this ſomething more ſhall be ſaid preſently.</p>
+            <p>Glad were the People of St. <hi>Martins</hi> of his depar<g ref="char:EOLhyphen"/>ture from them (the greater Nayl driving out the leſs) as hoping of ſome reſpite from their continual Jarrs, which had ſo inceſſantly diſquieted them; Nor was He leſs happy in this his Diſjunction, in ſo fair a manner, and upon ſo good pretences; For, beſides that he was lately redeemed out of the <hi>Kings-Bench</hi> Priſon, in which his former Contentions had engaged him; he was ready for the like reſtraint by his pra<g ref="char:EOLhyphen"/>ctices in this place.</p>
+            <p>So that he <hi>made a Vertue of Neceſsity,</hi> and was Loyal, not out of choice and praeference, but as the only way left to his Liberty: For he had been catch'd betwixt the Officers, or the Sergeant at Armes, from the pre<g ref="char:EOLhyphen"/>tended Parliament, then ſitting at <hi>Westminſter,</hi> if he had not eſcaped by a Gutter out of his Houſe; and it was a very good Colour (and the beſt alleviation of that envy and danger he had contracted) to blaunch thoſe Enormities of his particular and perſonal Evils, with his pretended Vindication and Redreſs of the Publique.</p>
+            <p>This is the rather, and more amply inſtanced, be<g ref="char:EOLhyphen"/>cauſe there ſeems to lye an Imputation upon his Party by his Miſcarriages; (although Perſons of ordinary
+<pb n="6" facs="tcp:34961:7"/> reaſon cannot but diſtinguiſh between the general Cauſe, and the particular Defence thereof) for that indeed he was of no Conſtitution, nor was framed to, or could poſſibly aſſume the Vizor of the Reformation; and conſequently where there was no Zeal, nor auſtere rigid Aſpect, no Preferment was to be expected, And ſuch was his equal fate either way, that he met not with it among thoſe to whoſe ſide he repaired; ſo that if he had not been more notorious for his late Actions, than notable for his former; and more infa<g ref="char:EOLhyphen"/>mous for the Civil, than renowned for his Military Employments, the World had been troubled leſs with him now (while it labours with the noiſe of his ſtory) than it hath been for the courſe of theſe 30 years laſt paſt.</p>
+            <p>But for ſatisfaction to the World, who will needs believe, that he is an Eminent Cavalier, we will give an account of what has come to hand, or was ever yet made out, concerning any Commiſſion or Command in the Kings ſervice. He hath often pretended that he was under the Right Noble Marqueſſe of <hi>Newcaſtle,</hi> in that Northern Army, and that he was Commiſſioned as Wagon Maſter-General firſt, and afterwards made a Collonel therein, and of this he hath laid ſeveral wagers, ſaying, that he had loſt his Commiſſion, but would bring a Certificate to aſſert it, which at laſt he never did or could; but hath ſuffered many twenty ſhillings to be drunk as forfeited: And I could name a worthy Gentleman, and Officer of the Militia in this Ciity, who hath won ſome ſuch ſumms upon this very wager.</p>
+            <pb n="7" facs="tcp:34961:7"/>
+            <p> He hath likewiſe been reported for a very ſtout da<g ref="char:EOLhyphen"/>ing perſon; Particularly, there is a frequent diſcourſe of a brave Exploit of his at <hi>Newbery,</hi> about whoſe parts being gathering of Contribution, with a Party of 12 Men, commanded by him; the Parliaments Garriſon thereabouts conjoyning, to the number of 60 Horſe made towards them, to recover the money; of whoſe approach Collonel <hi>Turner</hi> having notice, ordered his men to make faſt their baggs, as well as they could to the bows of their Saddles, by placing them as con<g ref="char:EOLhyphen"/>veniently as they could before them (which proved a good defence to their belly and groyns) and preſently to charge and break through the Enemy, which was gallantly attempted and performed, and the men and money came clear off (as our information is) to <hi>Wallingford</hi> Caſtle.</p>
+            <p>It is credibly reported likewiſe that in a Conflict and Skirmiſh between ſome ſmall parties near <hi>Stevenige</hi> in <hi>Buckinghamſhire,</hi> he was wounded by a ſhot in the Neck, and taken Priſoner by a Servant (belonging to a perſon of quality) from whoſe mouth we had this ſtory; and a Ring with a ſtone in it (with ſome other things, the due ſpoil of the Victor) taken from him, which he ſaid he valued at 100 <hi>l.</hi> but when it came to be juſtly and skilfully prized, it was worth no more than 5 ſhillings. And this Rhodomontade humour was ſo congenial with him, and ſo inſeparably fixed in him, that he could not diſpence with it in the very peril of his life, as we ſhall ſee in the Concluſion of this Narrative.</p>
+            <pb n="8" facs="tcp:34961:8"/>
+            <p> For certain; there were ſeveral Indictments after the War expired, againſt him in <hi>York</hi> City at the Aſſizes held there by the Judges of the Juncto for many ſuch like pranks, of forcing in Contribution from the Country, during the ſeat of it in that County: ſo that if he had any Office, there is none ſo probable as that of Plunder-Maſter General, then which (or ſome ſuch new invented Title, as Commiſſary to the Baggage, or Colonel of a flying Regiment of Straglers and Free-booters, that may be adapted to him, I think none would better become this Military Solicitor, for he had not yet quitted his former practice,</p>
+            <q>
+               <l>Trojani tempore Belli</l>
+               <l>Euphorbus eram.</l>
+            </q>
+            <p>He was by a tranſmigration, and the alteration of the State, like <hi>Copernicus</hi> his moing Earth, the ſame per<g ref="char:EOLhyphen"/>ſon, under various and different Climates, and tem<g ref="char:EOLhyphen"/>peratures of Air.</p>
+            <p>And this is all that is retrieved of him during the War (ſome ſuch like ſtories being of purpoſe omitted) beſides ſome debauch'd and lewd actions of his, as to Women in his quarters, which out of reverence to the Readers modeſty, and the civility of this diſcourſe, which would not be too injurious to the memory of any perſon though never ſo vile (without it might e<g ref="char:EOLhyphen"/>vidently conduce to any vertuous advantage) are likewiſe to be forborn, conſidering withall that the Military Licenſe, whereby <hi>quicquid lubuit licet,</hi> all things are allowed to men of that Profeſſion, if they can compaſs them (as will happen in the beſt
+<pb n="9" facs="tcp:34961:8"/> governed and moſt diſciplined Armies) may be pre<g ref="char:EOLhyphen"/>tended as an extenuation of that Crime.</p>
+            <p>Many are upon this account apt to believe, that like <hi>Don Quixot</hi> in his like adventures, he might dig<g ref="char:EOLhyphen"/>nifie himſelf with the Titulado of a Colonel, but the marring of his honour is, that there is no Squire, nor ſo much as a Landſprezado to aver it.</p>
+            <p>Nevertheleſs, before we diſmiſs this Subject, we muſt review the <hi>York</hi> ſtory, where at the ſaid Aſſizes he made out to the Jury, or they were ſo fairly cre<g ref="char:EOLhyphen"/>dulous, as to believe his own word, that what he acted againſt the Country, was by commands upon him as an Officer in his then Majeſties Army, and that if he had not obeyed thoſe orders from his ſuperiours, he had been lyable to ſentence by a Court Martial, which would have been death inevitable.</p>
+            <p>Obſervable alſo herein was his cunning deport<g ref="char:EOLhyphen"/>ment at his arraignment, and Plea to the Indictments being no leſs than 65 in number (as he himſelf hath often affirmed.) For whereas divers other perſons and Officers, leſs active than he, being at the ſame time Indicted with him, upon the ſame account, pleaded, <hi>Not Guilty,</hi> and ſtood to the Defence of their Cauſe by the diſproof of Witneſſes; <hi>&amp;c.</hi> (whereby they tacitely confeſſed the Treſpaſs if witneſſed, and were found Guilty: He by pleading Guilty, and offering his Caſe as the Caſe of the Jury, if they had been under the like Command, eſcaped Sentence, and came off without the leaſt Fine or Damage whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <pb n="10" facs="tcp:34961:9"/>
+            <p> By this it may appear, that he could not but have amaſſed great ſtore of wealth, by this his ſpoyl and rapine, ſo grievous and notorious as above expreſſed; and it was no wonder the Country ſhould in ſome pla<g ref="char:EOLhyphen"/>ces be more averſe to the Kings Party, than in others, if they met with ſuch Locuſts and Caterpillers as this man, who made it his buſineſs to ſqueeze and pill them.</p>
+            <p>As it will alſo give the beſt light (&amp; for which pur<g ref="char:EOLhyphen"/>poſe we have recited and doubled that mention of it) unto his future condition of Life, for that it influen<g ref="char:EOLhyphen"/>ced all his future actions and deſignes, and was the greateſt and principal motion of them. For though other Royaliſts, inſtead of getting, loſt almoſt all they had, in that unnatural and miſerable War, this Prodigy of a Cavalier, had heaped up great ſums of money, which he hoarded in ſeveral places, and af<g ref="char:EOLhyphen"/>terwards brought up to <hi>London,</hi> where with this ſtock he vampt his old Trade of managing of Cauſes, diſ<g ref="char:EOLhyphen"/>burſing the charge out of his own Pocket, which was very acceptable to injured People, whoſe de<g ref="char:EOLhyphen"/>fence and juſt rights he undertook, wherein alſo he was very lucky.</p>
+            <p>He hath been heard to ſay, that he was not ſuch a Fool, as to let the Rebells run away with all the mo<g ref="char:EOLhyphen"/>ney and wealth of the Kingdom: nor ſo nice and con<g ref="char:EOLhyphen"/>ſcientious, as to leave a good booty to the Enemy, if force or finery would help him to it: Nor ſo unwiſe when he had gotten it, to truſt it in one place, nor in <hi>London</hi> in one mons hands, if any ſearch or inquiſition
+<pb n="11" facs="tcp:34961:9"/> ſhould happen to be upon him; For if one or two Rogues ſhould chance to break or bankrupt, I will have money, ſaid he, in twenty mens hands, and the De<g ref="char:EOLhyphen"/>vil is in it, if they all fail.</p>
+            <p>And who now doth not ſee, &amp; cannot but admire the Juſtice of Heaven in the Cataſtrophe and end of this Man, that at ſuch time as the truly loyal and indigent Officers are a paying thoſe Dividents, which by Act of Parliament, and their Committees, are apportion<g ref="char:EOLhyphen"/>ed to them, (the incompetence whereof is to be be<g ref="char:EOLhyphen"/>wailed) this Perſon ſhould be called to this ſevere account and reckoning for his before-hand unreaſon<g ref="char:EOLhyphen"/>able pay, and now expiate thoſe outrages, and ſatis<g ref="char:EOLhyphen"/>fie in ſome part for thoſe many ſcandalls, which have brought thoſe undeſerved neceſſities upon the Gentle<g ref="char:EOLhyphen"/>men of the Royal Party. But to proceed.</p>
+            <p>He appeared firſt at his return to <hi>London</hi> in the Committees of Goldſmith and Haberdaſhers Hall, ſitting upon Compoſitions for Delinquents Eſtates, but thoſe places being too hot for him, and an old grudge hanging on the file, as being formerly ſuſpe<g ref="char:EOLhyphen"/>cted of a hand in Mr. <hi>Challoners</hi> buſineſs (which he hath vapoured on ſince, and indeed was a real Truth) he was forced to abandon the employment, by which there are too many in Town have gotten fair Eſtates, and doe yet (worſhipped be their good fortune) en<g ref="char:EOLhyphen"/>joy them.</p>
+            <p>But money being his certain Friend, and having ſcrued himſelf therewith into the acquaintance of men of faſhion, and pretending to skill in all affairs;
+<pb n="12" facs="tcp:34961:10"/> what betwixt Broaking and Solliciting, he was grown famous in the Town, and withall got money apace, ſo that it was not long ere he bought himſelf a Horſe, on which he ambled up and down the City, which rendred him more notable to the obſervance of all men, and gave reputation to him as a man of very great ſufficiencies and abilities in his way. And here<g ref="char:EOLhyphen"/>upon it was that one Mr. <hi>Okeham</hi> an experienced know<g ref="char:EOLhyphen"/>ing Solliciter would needs buy a Horſe in imitation of that pomp, which he did in a Humour; but the <hi>Coſt</hi> being greater than the <hi>Worſhip,</hi> ſoon ſold him again, while Mr. <hi>Turner</hi> was grown into a Proverb, or By<g ref="char:EOLhyphen"/>word, <hi>Turner and his Horſe,</hi> the World wondring which part of the <hi>Centaur</hi> was the better Beaſt.</p>
+            <p>This buſie negotiation he continued a good while without any blemiſh or taint, (being moſt expert and frequent in the Sale of Lands decreed in Chance<g ref="char:EOLhyphen"/>ry, for which bargains he would get a 100 pound in a morning, betwixt ſeller and buyer; as alſo in the loan of moneys upon good ſecurity, to which pur<g ref="char:EOLhyphen"/>poſe he acquainted himſelf with all the monied men in <hi>London;</hi> and the recovery of Right and Title to Lands unjuſtly with-held from the true Heirs) till his dealing with one Mr. <hi>Galilee</hi> a Broaker in <hi>Finch-Lane,</hi> who pretending that he had right to an Eſtate of an 100 pound <hi>per annum,</hi> in <hi>Norfolk,</hi> bargained with Collonel <hi>Turner</hi> for the ſumm of 50 pound down, to proſecute his Title, and and did afterwards pay him ſeveral incident Law charges.</p>
+            <p>In order to this recovery, the ſuit being commenced
+<pb n="13" facs="tcp:34961:10"/> in the Exchequer (by the cuſtomary proceeding of which Court, the Plaintiff is bound to name a Leſſee, who ſhall ſatisfie the Damage and Coſts to the De<g ref="char:EOLhyphen"/>fendant if he fail in his Suit, which by conſent and appointment of <hi>Galily,</hi> as <hi>Turner</hi> affirmed, was one <hi>Sampſon)</hi> it came to a Tryal, wherein <hi>Sampſon</hi> was overthrown, <hi>(Galily</hi> having ſold his right ſome time before) and an Execution for Coſts was taken out a<g ref="char:EOLhyphen"/>gainſt <hi>Sampſon,</hi> and He by the diligent ſearch of the Defendants found out and ſerved with it (being a Neighbour over againſt Colonel <hi>Turner)</hi> who expe<g ref="char:EOLhyphen"/>cting to be freed by <hi>Galily,</hi> now diſowning the mat<g ref="char:EOLhyphen"/>ter to <hi>Turner,</hi> and that he never named any ſuch perſon, a difference aroſe between the Colonel and the Broak<g ref="char:EOLhyphen"/>er, who brought an Indictment againſt <hi>Turner</hi> for Barratry, which he ſwore to himſelf, and although ſeveral Witneſſes were produced for him, who teſtified how much he had been their friend, in com<g ref="char:EOLhyphen"/>pounding, and paying ſome of their debts out of his own Pocket, with other commendatory language; yet the Jury found him guilty; but the Court not be<g ref="char:EOLhyphen"/>ing fully ſatisfied, referred the difference to Sir <hi>Willi<g ref="char:EOLhyphen"/>am Wild</hi> and Mr. <hi>Allen;</hi> but at laſt <hi>Turner</hi> was forced to refer it to Sir <hi>William</hi> (for that he would be re<g ref="char:EOLhyphen"/>corded next Term) who awarded that he ſhould loſe all his Coſts and charges, and pay to <hi>Galily</hi> either 40 or 50 pounds, the whole buſineſſe ſtanding him in no leſſe than 300 pound,</p>
+            <p>There is another ſtory of him at the proſecution of one <hi>Batchelour,</hi> living near <hi>Fanchurch Street,</hi> which
+<pb n="14" facs="tcp:34961:11"/> doth him more faigned reputation than the other real diſcredit; theſe 2 fell out upon ſuch broaking accounts, and in ſuch a virulent manner, that <hi>Batchelour</hi> procu<g ref="char:EOLhyphen"/>red a Friend of his to write a Book or Pamphlet a<g ref="char:EOLhyphen"/>gainſt him, wherein there was this notable paſſage, <hi>(Batchelour</hi> intending to render him obnoxious to the Uſurper) <hi>viz. This ſame</hi> Turner <hi>was Knighted in the Field by the late King, for ſlaying, and killing, and undo<g ref="char:EOLhyphen"/>ing the good and well-affected people of this Nation; A moſt dangerous and active Fellow, and for his ſervices ſo reward<g ref="char:EOLhyphen"/>ed,</hi> &amp;c. Which ſtory he took not a little delight in, nor would ever contradict it; but being asked by ſome Friends, why he did not aſſume the ſtyle of a Knight, would anſwer, <hi>My condition as a Broaker and Solicitor, will not comport with a Knighthood, but had I an Estate and Lands of value, I would be as good, and as ſoon Sir</hi> James, <hi>as the beſt Sir</hi> James <hi>in</hi> England.</p>
+            <p>Such a multitude of buſineſs was now upon him, that he kept two Clerks conſtantly a writing, or run<g ref="char:EOLhyphen"/>ning about, whom he uſed with great affability and courteſie; He alſo kept a good hoſpitable Table; where, to give him his due, he did liberally entertain ſuch poor diſtreſſed Cavaliers as would reſort to it: Nor would he refuſe their company at Taverns with his Clients, where he would pay their ſhare out of his own pocket, and lend them money beſides.</p>
+            <p>He was likewiſe very charitable to the poor, and a favourer of the oppreſſed, nor would ſtick for any pains or coſt to do them Juſtice. 'Tis true, his Vices infinitely far exceeded his Vertues, which were
+<pb n="15" facs="tcp:34961:11"/> but glimmering and faint appearances, while his Enor<g ref="char:EOLhyphen"/>mities were moſt evident and conſpicuous: but how<g ref="char:EOLhyphen"/>ever, that little good that was in him, ought not to be ſuppreſſed, but to be put in the ballance againſt them, to let the world ſee, he had ſome humanity in him, and not ſuch a Monſter as the Phanatique Party would by all means make him. And this good quality I am apt to believe he owed to his Loyalty, in which he had confirmed himſelf by a long adhaerence, the inſeparable companions of which are all the neceſ<g ref="char:EOLhyphen"/>ſary requiſits to a good Nature, which is generally wanting throughout the Faction, a moſt ſupercilious, moroſe, and peeviſh ſort of people.</p>
+            <p>But this Humanity had its Exceſſes, and could not be contained within any means or bounds, for he was full of extravagancies and high flights therein; But of many ſuch wild ſtories, we will only mention one. He had occaſion about the Arreſt of a certain perſon to goe to <hi>Colcheſter,</hi> in which buſineſs he uſed the aid of ſome Officers of the Counter, as eſpecial Bayliffs, as he did frequently in the like Caſes, and having ef<g ref="char:EOLhyphen"/>fected his Errand, bought a Pipe of Canary of the Man of the Houſe, and ſet it abroach for all Commers, with other liberal entertainment; and from thence carried his Company to <hi>Biſhops-Storſord,</hi> where ha<g ref="char:EOLhyphen"/>ving ſpent all his money, he took his Mare which coſt him fourſcore pound, and rid preſently to <hi>London,</hi> and brought Forty pounds more to diſcharge the Houſe.</p>
+            <p>Beſides this Mare he was never without 3 or 4 hun<g ref="char:EOLhyphen"/>dred
+<pb n="16" facs="tcp:34961:12"/> pounds of Horſe-fleſh, which hath ſince given ſuſpicion that he uſed the High-way, and a rumour is now ſpread, ſince his diſcovery of this late Robbery, that he was the Head of all the High-way men in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> how untruly, time will beſt diſcover; but it is hardly believable, for that his practice could not bring him in leſs than 500 pound a year; however his exceeding prodigality had run him out of money of late, and put him to his ſhifts, when he choſe rather (as it is the fate of great and ungoverned ſpirits, who have ruined themſelves) to piece his ruines by baſe attempts, then to ſink obſcurely into a Goal, and fall into poverty by leiſurable degrees.</p>
+            <p>Of late years he hath dealt alſo another way by trading in Jewells, without great choice and variety of which in his pocket he hath not been ſeen, (upon which account it was that he put his Son <hi>Ely</hi> Appren<g ref="char:EOLhyphen"/>tice to a Lapidary and Jeweller in <hi>Moor-Fields)</hi> and hath ſold and bartred ſome quantities thereof to per<g ref="char:EOLhyphen"/>ſons of quality, by which he cannot be ſuppoſed but to have gained conſiderably; And therefore it muſt be ſome ſtrange occaſion, which the world cannot gueſs, that hath put him upon this foul and baſe action.</p>
+            <p>It is true, he hath been noted for a moſt unjuſt and foul buſineſs, in the Caſe of one Mr. <hi>Clench</hi> of <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> who had occaſion to borrow 400 pound upon a Farm called <hi>Bendiſh,</hi> by <hi>Boſton</hi> in the Beacon, in that County, to whom Mr. <hi>Turner</hi> pretended, that becauſe his Lands lay ſo far diſtant, he muſt give
+<pb n="17" facs="tcp:34961:12"/> Bond alſo with perſonal Security for the payment of the money at the day: which being done, at the day of payment Mr. <hi>Clench</hi> taking up his Morgage, forgot his Bond, which was afterwards ſued and recovered againſt him, but what reaſon there might be for this as is accidental to caſes of this nature I will not deter<g ref="char:EOLunhyphen"/>mine.</p>
+            <p>And there are ſtories of his familiarity with <hi>Gowry Granger,</hi> and that he did forge Bonds of 800 l. and ſued them afterwards; But all the enquiry that could yet be made, would not arrive to any ſuch particu<g ref="char:EOLhyphen"/>lars. To the ſame tenour is that report of his having deſeated a young Gentleman of 60 pound, by a pro<g ref="char:EOLhyphen"/>miſe of procuring him a Fellowſhip in <hi>Cambridge</hi> by a <hi>Mandamus</hi> from the King: to all which the Reader muſt ſuſpend his belief, till there be a due conviction thereof in ſome furthrr account, and the rather ought we to be thus civil to him, becauſe the ſtory of the La<g ref="char:EOLunhyphen"/>dy <hi>Hewy<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> 200 l. is a meer fiction, and deviſed ſcan<g ref="char:EOLhyphen"/>dal.</p>
+            <p>For it appears ſo by a Letter under her own hand, wherein ſhe certifies, that a one Colonel <hi>Whitton</hi> whom ſhe nameth, did receive of her the ſum of 235 pound for his procuring the preſervation of her Husbands life; but ſhe utterly denies that it was this Collonel <hi>Turner,</hi> whom ſhe never ſaw in all her life time, and the ſaid Collonel confirms as much, and acknow<g ref="char:EOLhyphen"/>ledgeth the receipt of the ſaid money.</p>
+            <p>There is another tumour, which might ſeem leaſt of all credible, and that is hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſupplying <hi>Oliver</hi> (when
+<pb n="18" facs="tcp:34961:13"/> in a ſtreight for mony, &amp; his Red-coats in a mutiny or combination by <hi>Lambert</hi> againſt him, with the ſumm of twenty thouſand pounds by his procurement, from his acquaintance in <hi>London:</hi> but it holds ſo little ana<g ref="char:EOLhyphen"/>logy with his conſtant and publique profeſſion of his deteſtation of the perſon, beſides that <hi>Oliver</hi> had Bea<g ref="char:EOLhyphen"/>gles of his own for that game, that it is more than dubious whether that be not an artifice to ſlurr his Name.</p>
+            <p>As to any treacherous correſpondencies charged in general upon him, certainly he could no way be guil<g ref="char:EOLhyphen"/>ty: for he was no way capacitated to the manage of a deſign, as moſt palpably appeared in this laſt: nor was he a man of any judgement or ſolid reaſon, but flaſh and vapour, and of ſuch like ſudden and violent Effects. Beſides he was all talk and prattle of what ever came uppermoſt, nor would give way or Ear to to another mans diſcourſe, as too headſtrong &amp; paſſio<g ref="char:EOLhyphen"/>nate, though never ſo erronious and miſtaken.</p>
+            <p>So that it was concluded, the approach of the late happy Reſtitution, found him in a very fair poſture in all reſpects; Money, Friends, and Credit, and the reputation of a conſiderable Royaliſt, until his prag<g ref="char:EOLhyphen"/>matical and ambitious intruſion of himſelf into the Troop of my Lord of <hi>Cleveland,</hi> in <hi>Lincolns-Inn-Fields,</hi> in order to attend the King at his Landing; where at their Rendezvouz in the ſame Fields, he was with ſome diſgrace ſhouted out of the Troop, my Lord ha<g ref="char:EOLhyphen"/>ving told him, that he had heard an ill report of him, and would not therefore ſuffer him to ride under his
+<pb n="19" facs="tcp:34961:13"/> Command; whereupon under the colour of fetching a graceful compaſs with his Horſe, &amp; to ſhew his cur<g ref="char:EOLhyphen"/>vets &amp; agility, he galloped full ſpeed out of the Field. He did acquaint my Lord there, that he was falſely &amp; maliciouſly abuſed &amp; traduced, but my Lord would ac<g ref="char:EOLhyphen"/>cept of no ſuch defences,</p>
+            <p>In the ſame bold manner (notwithſtanding his late repulſe) he put himſelf into the moſt noble Triumph and Cavalcade of the <hi>Coronation,</hi> where he had ſo made his way, that he did ride through the City in a moſt gallant and coſtly Equipage, as to himſelf and his Horſe. And here was the top and height of his Grandeur, and the limits of his Vain-glory, as it pro<g ref="char:EOLhyphen"/>ved the neer term and end of his happineſs; This fa<g ref="char:EOLhyphen"/>tal buſineſs eveening as the moſt memorable thing and paſſage of his life ſince that time, of which we will give a ſhort account.</p>
+            <p>By his way of dealing he was grown very familiar with one Mr. <hi>Tryan,</hi> an ancient wealthy Merchant, (who had lent him ſeveral conſiderable ſumms of mo<g ref="char:EOLhyphen"/>ney, and of whom he might have had any thing upon his own word) and by the liberty and freedom he uſed in his Houſe, and frequent reſort to the place where the old man laid his Money and Jewells, which were pledged with him, through ſome covetous inſtiga<g ref="char:EOLhyphen"/>tion or neceſſity, he concluded (it being a ſacil attempt) to robb him; the which how he effected, we will re<g ref="char:EOLhyphen"/>late from his own mouth; as after conviction by a Jury, he confeſſed before the Lord Mayor, Sir <hi>Richard B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wn,</hi> Sir <hi>Thomas Allen,</hi> Sir <hi>Thomas Bludworth,</hi> Sir <hi>William Wade,</hi>
+               <pb n="20" facs="tcp:34961:14"/> and others, to the purport of theſe words, <hi>viz.</hi> That he had deſigned this buſineſs to have been acted ſome time before by the ſame perſons that now were in it? to which end <hi>Iames White, William Turner</hi> and a third perſon not yet diſcovered met at the Red Bull in <hi>Biſhops gate ſtreet,</hi> where Collonel <hi>Turner</hi> came to them at the time appointed, and ask'd them whether they were fixt, ford at the way was now made for them: Whereunto <hi>Iames white</hi> made this anſwer, that the third party then in company was in drink, and ſo not fit to be made a companion at that time in ſuch an affair, and that He would not goe, if the ſaid per<g ref="char:EOLhyphen"/>ſon went. Whereupon the execution of the buſineſs was from that time ſu'pended to a ſecond opportunity, which Collonel <hi>Turner</hi> undertook to watch for, and acquaint them with.</p>
+            <p>On <hi>Wedneſday, January</hi> 6. Collonel <hi>Turner</hi> met <hi>Wil<g ref="char:EOLhyphen"/>liam Turner</hi> at the Cock behind the <hi>Exchange,</hi> and there agreed upon a meeting of all the parties the next night at the Red Bull in <hi>Biſhops-gate-ſtreet</hi> aforeſaid: where accordingly they met, and after ſome ſtay Collonel <hi>Turner</hi> came to them, and told them, the buſineſs was now ripe, the Old man was faſt, and his Man and Maid were gone forth; whereupon they imme<g ref="char:EOLhyphen"/>diately ſet forward to the work. Collonel <hi>Turner</hi> had formerly found his opportunity to take the print of the Street-door Key in ſoft wax, and by that pattern had gotten a new Key made, wherewith he readily, and without noiſe opened the door, and firſt entred himſelf, his Complices following him: when they
+<pb n="21" facs="tcp:34961:14"/> were within they conſulted how they ſhould ſecure the Old Gentleman; and preſently reſolved that he ſhould be bound and gagged; and to this part of the work <hi>William Turner</hi> and <hi>James White</hi> were aſſigned: where<g ref="char:EOLhyphen"/>upon <hi>William Turner</hi> askt the Collonel how he ſhould bind him, to which the Collonel replyed, that he ſhould tye him hands and feet together, but allow him ſcope, (ſo as not too much) but not hurt him: <hi>Willi<g ref="char:EOLhyphen"/>am Turner</hi> askt again, what if the Old man ſhould cry out? to which the Collonel replyed, No matter if the Old Rogue doe cry out, he lies backward, no body can hear him. In proſecution of theſe Inſtru<g ref="char:EOLhyphen"/>ctions, they (conducted by <hi>Turner)</hi> enter the old Gentlemans Bed-chamber, <hi>White</hi> goes to one ſide of the bed, <hi>William Turner</hi> to the other, they awake him, tell him their buſineſs, and preſently fall to binding and gagging him; which having done, they yet kept their ſtation on each ſide of the bed, partly by fear to awe the old Gentleman from crying out, but chiefly (by the Collonel's inſtructions) to obſcure him from the ſight of the old Gentleman (to whom he was ſo well known) in his paſſage for the Keyes of the Clo<g ref="char:EOLhyphen"/>ſet, where the prize lay; which Key having preſent<g ref="char:EOLhyphen"/>ly found, he himſelf alone enters the ſaid Cloſer, takes the Jewells, and pockets them privately, not ac<g ref="char:EOLhyphen"/>quainting his Companions therewith; who percei<g ref="char:EOLhyphen"/>ving their buſineſs done, as they were directed, ſaid, come, it is 12 a Clook, it is late, let us be going, there<g ref="char:EOLhyphen"/>come, by to amaze the old man, as to the time and to defeat his witneſs, if he ſhould ſuſpect <hi>Turner,</hi> who was got
+<pb n="22" facs="tcp:34961:15"/> to bed by 10 that night, for he did not imagine his man would come home ſooner, or the old man get looſe before the morning. Collonel <hi>Turner</hi> then ſhews them the money, bids them goe and ſecure the lower door, and he would bring it down to them; which accordingly he did. The Sum 1023 pounds in Silver, and about 20 pounds in Gold. Both the Mo<g ref="char:EOLhyphen"/>ney, and the Jewells, as they are charged in the In<g ref="char:EOLhyphen"/>dictment it ſelf, with their prizes, it will not be amiſs here to inſert, <hi>VIZ.</hi>
+            </p>
+            <p>
+               <table>
+                  <head>The Jewells and price thereof.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>pound.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>ONe pendant Pearl and ſtone, value</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>2 Jewels, with two Pearls, 17 Diamonds, and 8 Rubies, value</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>One Topus and a Pearl, value</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>One Jewel, value</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>One Diamon Ring</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>One other Ring with 9 Diamons</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>One other Jewel, value</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>One Gold Chain, value</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>One other Ring, value</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Two Gold Rings, in each of them a ſmall Diamon</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>One Necklace of Pearl</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>One Pendant, value</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>One Pendant Pearl with Diamons</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>Four other Diamon Rings, value</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>One Pendant Pearl</cell>
+                     <cell>11 10</cell>
+                  </row>
+                  <row>
+                     <cell>One other Necklace of Pearl, value</cell>
+                     <cell>87 10</cell>
+                  </row>
+                  <row>
+                     <cell>Two Jewels, value</cell>
+                     <cell>500</cell>
+                  </row>
+                  <row>
+                     <cell>One other Diamon Ring</cell>
+                     <cell>50</cell>
+                  </row>
+                  <pb n="23" facs="tcp:34961:15"/>
+                  <row>
+                     <cell>One Locket, value</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Two other Lockets, value</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>One other Diamon Ring</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>Six Bracelets, value</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>One Sapher Ring</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Two Lockets, value</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>One other Jewel</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Two other Rings with Diamons, value</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Thirteen Pearl value</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Three other Rings ſet with Diamons and Rubies</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>One other Jewel</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Sixteen Rings with ſeveral precious ſtones valued</cell>
+                     <cell>1454</cell>
+                  </row>
+                  <row>
+                     <cell>One Bracelet of Rubies</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>Five 22 ſhilling pieces of Gold</cell>
+                     <cell>5 10</cell>
+                  </row>
+                  <row>
+                     <cell>Seven 5 ſhillings pieces of Gold</cell>
+                     <cell>1 15</cell>
+                  </row>
+                  <row>
+                     <cell>Five 2 ſhillings, 9 pence pieces of gold</cell>
+                     <cell>0 13 9</cell>
+                  </row>
+                  <row>
+                     <cell>Six 20 ſhillings pieces of Gold</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Four 11 ſhillings pieces of Gold</cell>
+                     <cell>2 4</cell>
+                  </row>
+                  <row>
+                     <cell>Five French Piſtols of Gold at 16 ſhillings per piece</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>In Silver numbred</cell>
+                     <cell>1023</cell>
+                  </row>
+                  <row>
+                     <cell>One other Diamon Ring</cell>
+                     <cell>40</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Having brought down the money to his Follows, they put it into Wallets (brought with them for the purpoſe) and away they went into <hi>Dukes-Place,</hi> to a Houſe, where Collonel <hi>Turner</hi> had before hired a Room for himſelf, and Partners, under the names of a Captain of a Ship, his Maſter, and Boatſwain. Knocking at the door, the Maid-ſervant of the houſe came, with a Candle in her hand, which Collonel <hi>Turner</hi> ſnatch'd out of her hand, and turning his Com<g ref="char:EOLhyphen"/>panions, laden with their booty, up ſtairs before him,
+<pb n="24" facs="tcp:34961:16"/> went juſt behind them with the Candle. The money thus lodged, Collonel <hi>Turner</hi> (leaving <hi>James White,</hi> and the other perſon, not yet diſcovered, to ſtay all night in the Lodging, which they accordingly did) repaired to his own houſe, and ordered <hi>William Tur<g ref="char:EOLhyphen"/>ner</hi> to go alſo to his home in <hi>Old-Street,</hi> giving him for his preſent ſupply only 5 ſhillings, but promiſing at the next meeting, that he ſhould have 100 pound more; but this meeting was by full agreement of them all concluded to be not on the next day, for that it would cauſe ſuſpition and danger, but on the <hi>Sa<g ref="char:EOLhyphen"/>turday,</hi> being the next day after; the place of meeting to be the corner Tavern, by the <hi>French</hi> Church, in <hi>Thread-needle-Street. William Turner</hi> came to the houſe at the time appointed, and there ſtaid in expectation of the Collonels coming with the 100 pound, accor<g ref="char:EOLhyphen"/>ding to his promiſe, an hour or two, but then went a<g ref="char:EOLhyphen"/>way, not without ſome wondring at this diſappoint<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Having thus laid down the Fact, we ſhall next give the Reader in brief the manner of the diſcovery there<g ref="char:EOLhyphen"/>of. As ſoon as the Thieves were gone, Mr. <hi>Tryan</hi> ha<g ref="char:EOLhyphen"/>ving got the gag out of his mouth by its <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in his under-jaw, attempted to riſe, and in doing ſo, fell with his ſide upon an Earthen Chamber Pot, and hurt himſelf; but getting to the window, cryed Thieves, I am rebb'd; whereupon one Mr. <hi>Vanden Ankor,</hi> a Merchant, living hard by, burſt open the door with a Crow, and entred, but found no body. The Man and Maid being miſſing, it was firſt ſuppo<g ref="char:EOLhyphen"/>ſed
+<pb n="25" facs="tcp:34961:16"/> they had done the fact, but the man being found at a Dancing-ſchool, and telling his maſter, who demanded where he had been, that he ſupt that night with Col. <hi>Tur<g ref="char:EOLhyphen"/>ner;</hi> the Conſtable and one Capt. <hi>Bedford</hi> were ſent thi<g ref="char:EOLhyphen"/>ther, who found him abed, and his Sons faſt aſleep, which was their private order) and then de<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ired him to come to <hi>Mr. Tryans,</hi> for he would ſpeak with him VVhen he came he denyed his mans being at his Houſe at all, and kept a huge buſtle about who were the Thieves, which render'd him ſuſpect; and pretended to ſpend the next day in ſearch of them; (All which paſſages will be made out in the en<g ref="char:EOLhyphen"/>ſuing pages.)</p>
+            <p>On Friday he gave intimation to Mr. <hi>Tryan,</hi> that he had found the Thieves, but required the ſame ſecurity of a dreadfull Oath that he had paſſed to them, that neither he nor they ſhould be moleſted nor proſecuted; and on Sa<g ref="char:EOLhyphen"/>turday Sir <hi>Thomas Aleyn</hi> found the money and him toge<g ref="char:EOLhyphen"/>ther, and brought him to Mr. <hi>Tryans,</hi> when engaging for the money and jewels to be delivered that day, he was diſ<g ref="char:EOLhyphen"/>miſt home; whence Mr. <hi>Stubbs</hi> an Officer telling him the ſuſpition that was on him for the robbery, he went to the Exchange as he uſually did, and there vapoured and boaſt<g ref="char:EOLhyphen"/>ed how he had got the goods again, while in the interim a private reſolution was taken up, to ſeiſe him by warrant from Sir <hi>Thomas Aleyn</hi> and carry him to <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>Turner</hi> returning home, and going out again to receive the money and jewels as he pretended, was arreſted in the ſtreets by the two <hi>Coles,</hi> at the ſuite of 4. Officers of the Poultry Counter, who had bailed him, and were now af<g ref="char:EOLhyphen"/>fraid of paying the debt, to a writ of one Mr. <hi>Van de Burgh</hi> a <hi>Dutch</hi> Merchant, whom he had defeated of 400 <hi>l.</hi> in this manner, which concerning his life we will ſummarily re<g ref="char:EOLhyphen"/>late: He pretended to redeem a Mortgage of 700 <hi>l.</hi> and bringing 300 <hi>l.</hi> with him catcheth up the writings; telling him that the other 400 <hi>l.</hi> being a paying, he would carry
+<pb n="26" facs="tcp:34961:17"/> the writings thither for the Gentleman, but neither retur<g ref="char:EOLhyphen"/>ned with money nor Deeds; for this the Merchant brought his writ, and had judgement ſigned laſt Term for 805 pounds.</p>
+            <p>
+               <hi>Turner</hi> being thus in their Cuſtody, would by any means have got free of them; pretending they would deprive Mr. <hi>Tryan</hi> of his jewels, &amp;c. for that he had appointed 3. a clock that afternoon to meet and receive them; but no way do<g ref="char:EOLhyphen"/>ing, he proffered Mr. <hi>Tryans</hi> bond, which being not judg<g ref="char:EOLhyphen"/>ed ſufficient warrant in that Caſe, they held him untill the warrant was brought from Sir <hi>Thomas Aleyn</hi> to carry him to Newgate, and not long after his wife brought the jew<g ref="char:EOLhyphen"/>els, which ſhe ſaid ſhe received of a man in <hi>Whitechappel,</hi> in the ſtreet, &amp;c. but that would not avayle, for about one and two in the morning he was carried in a Coach to the Preſs-yard by Newgate, and thence <hi>January</hi> the 15 and 16. to the Seſſions Houſe, where he was Arraigned, Tryed and Convicted by the proof following.</p>
+            <p>Sir <hi>Thomas Aleyn</hi> hearing of the miſchief befallen Mr. <hi>Tryan</hi> his friend, went to him to conſult and adviſe with him about the recovery thereof, and the diſcovery of the Thieves on Friday, and being much troubled at the buſi<g ref="char:EOLhyphen"/>neſs, the ſame night late Mr. <hi>Love,</hi> ſometime Alderman of the City, came to him, and premiſing ſome words to him, That he hoped he would be a friend to Iuſtice, decla<g ref="char:EOLhyphen"/>red to him, that a woman formerly a maid-ſervant of his, had acquainted him that there was a ſumme of 500 <hi>l.</hi> left in the hand of a friend of hers in the <hi>Minories;</hi> and that ſhe conceived it was not well come by, or words to that pur<g ref="char:EOLhyphen"/>poſe; and that this Robbery of Mr. <hi>Tryant</hi> being ſo lately perpetrated, he did conceive it might be ſome of that mo<g ref="char:EOLhyphen"/>ney. That the womans name where it was lodged was <hi>Mrs. Fry,</hi> a Sempſter, at the lower end of the <hi>Minories,</hi> who having revealed to her kinſwoman how the money came thither, ſhe had adviſed her for fear of danger, to
+<pb n="27" facs="tcp:34961:17"/> make a timely diſcovery thereof, which ſhe agreed to, and that in purſuance thereof ſhe had acquainted him the ſaid Alderman <hi>Love</hi> with the matter.</p>
+            <p>Sir <hi>Thomas Aleyn</hi> then demanded who ſhould be his guide to the ſaid houſe? To which Mr. <hi>Love</hi> replyed, My maid (above-mentioned) that knowes you Sir <hi>Thomas,</hi> al<g ref="char:EOLhyphen"/>though you do not know her, will meet and wait for you in the <hi>Minories</hi> early in the morning, accompanyed with a<g ref="char:EOLhyphen"/>nother woman; whereupon Sir <hi>Thomas</hi> reſolved the next morning to go thither by 6. a clock; and accordingly in his way thither met with Major <hi>Tasker,</hi> Major in the <hi>Green</hi> Regiment of the Trayned Bands, and after asking him whi<g ref="char:EOLhyphen"/>ther he was going in ſuch haſte, enjoyned him to bear him company to ſuch a place upon ſuch a buſineſſe, to be aſſi<g ref="char:EOLhyphen"/>ſtant to him in the proſecution thereof, whereunto Major <hi>Tasker</hi> agreed.</p>
+            <p>In the <hi>Minories</hi> the ſaid two women met with Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> and the Major as it was concluded, and brought them to the Houſe, where as ſoon as they entred, they found Col. <hi>Turner</hi> with his hand on the Cheſt wherein moſt of the money was laid, to whom (being ſomething ſurpris'd with the ſight of Sir <hi>Thomas)</hi> he ſaid, meddle not with the money, for that and you muſt go along with me, and pre<g ref="char:EOLhyphen"/>ſently a Conſtable was called by Sir <hi>Thomas</hi> his order to keep the Peace; for of a ſudden about 6 or 700 perſons were gathered about the door.</p>
+            <p>In the Interim Sir <hi>Thomas</hi> demands of <hi>Turner</hi> whoſe money it was, (finding it ſealed with the Lord Biſhop of <hi>Chicheſters</hi> ſeal, whoſe money indeed it was, and as his Lordſhips acquaintance left in Mr. <hi>Tryans</hi> hands till he ſhould have uſe of it) who anſwered it was his own, and that he received it of a Goldſmith; but being farther queſtioned of what Goldſmith, he was at a ſtand, and could not tell.</p>
+            <pb n="28" facs="tcp:34961:18"/>
+            <p> In the mean while <hi>John Turner</hi> the ſon, who was alſo preſent, got out by a back door, and leaping over the pales in a yard behind the houſe, eſcaped; and Sir <hi>Thomas</hi> ha<g ref="char:EOLhyphen"/>ving called a Coach, with Major <hi>Tasker</hi> and Mr. <hi>Turner,</hi> attended by the Conſtable, came to <hi>Lime-ſtreet</hi> to Mr. <hi>Tryans,</hi> Sir <hi>Thomas</hi> having underſtood from the woman of the houſe, that the money was left there by Mris. <hi>Turner,</hi> for the uſe of a decayed Merchants family, Collonel <hi>Tur<g ref="char:EOLhyphen"/>ner</hi> having ſworn that he would keep no money in his houſe.</p>
+            <p>The ſubſtance of this he depoſed at the Tryal, where al<g ref="char:EOLhyphen"/>ſo Mr. <hi>Hanſon</hi> a Goldſmith depoſed the Seal on one of the Baggs, to be the ſame with the Seal of the ſaid Lord Biſhop of <hi>Chicheſter,</hi> on a Letter of his to Mr. <hi>Tryan,</hi> as he had compared them.</p>
+            <p>Sir <hi>Thomas Chamberlain</hi> atteſted his obſervation of the buſie and troubleſome intermedling of the Collonel amongſt the neighbours and friends, when they were con<g ref="char:EOLhyphen"/>ſulting the means of diſcovery, and the Authors and ſet<g ref="char:EOLhyphen"/>ters of the Robbery, whereby he adminiſtred viſible cauſe of ſuſpition. This Sir <hi>Thomas Chamberlain</hi> was inſtantly requeſted by Mr. <hi>Turner,</hi> for the dear ſake of his Wife and Children, to be preſent at his Tryal, and he proved the moſt convincing evidence againſt him.</p>
+            <p>His defence hereto being prolix and very impertinent, and of no weight with the Jury, beſides that it hath been in part publique, and is refuted by his own confeſſion as a made ſtory, and ſo incongruous that no Art can make it hang together, we purpoſely omit, and ſhall pleaſure the Reader with ſome Novels (which have been brought to our hand) during his reſtraint in <hi>Newgate.</hi>
+            </p>
+            <p>The place no way diſmay'd him, nor did he alter or vary in the leaſt from his former courſe of life, never a day paſſing over his head wherein there were not 40. bottles of wine drank up in his Lodging.</p>
+            <pb n="29" facs="tcp:34961:18"/>
+            <p> The Sunday after his conviction (which was on Saturday night) his maid attended him to dreſs his victuals, and a leg of Mutton being roaſted for him, which ſhe had ſpitted with the pizzle on, he fell into a wild humour and ſome unlucky words concerning the ſubject, and with the firefork ſtruck through the meat and ſpoyled it. The ſame day being adviſed to ſend to Sr. <hi>Thomas Allyn</hi> that he would deliver his Petition to the King: He proteſted he would hang firſt, and ſuch was the humour of Honour and ambiti<g ref="char:EOLhyphen"/>ous pride in him, that at his Tryall he frequently made aſſeverations by the no other invocation than <hi>by my Honour.</hi> On Munday being ſent for down to the Seſ<g ref="char:EOLhyphen"/>ſions when the Court had got an intimation of the ſtory, he refuſed to confeſſe, as he was deſired to do, to a Committe of <hi>Aldermen,</hi> till my Lord Mayor came off the Bench to be there preſent, and when he had made that confeſſion, he was ſo bold and familiar with ſome of thoſe worſhipful perſons as to tax them of be<g ref="char:EOLhyphen"/>ing too liberal in their teſtimony againſt him.</p>
+            <p>He likewiſe frankly told them, that as to the Rob<g ref="char:EOLhyphen"/>bery, it was no ſuch hainous matter, for that the old Rogue, meaning Mr. <hi>Tryan,</hi> was a miſerable fellow, and that there was no more, or worſe thing in doing of it, then for a Man to go to a Drapers ſhop, and buy with his ready money as much Cloth as would make him a Suit and Cloak, and then ſend for it home: The old fellow will boyl Marrow-bones one day, and the next day put in ſome Cocks or Capons Heads, and make ſtrong Broth of them.</p>
+            <pb n="30" facs="tcp:34961:19"/>
+            <p> After judgement, he was put in the dungeon with the reſt that were condemned, though much againſt his will, bidding the Officers go forward to his former lodging in the preſſe yard but it could not be allowed him for that night: ſoon after Mr. <hi>Stubs</hi> the officer came to ſee him. whom he found with a quart pot in his hand, and this language from his mouth, <hi>Stubs,</hi> I know you loue burnt wine, here's to you and drank to him, and gave him the pot into his hand, which proving to be nothing but fair water he added, this is all the liquor that Ile drink while I am in this world.</p>
+            <p>Notwithſtanding he endeavoured to prolong his life by alwayes poſſible, ſending that night to Captain <hi>Tytus</hi> Gentleman of his Majeſties bed-chamber, with whom he had ſome former acquaintance, to entreat his interceſſion to the King for a reprive; the meſſen<g ref="char:EOLhyphen"/>ger found the Capt. in bed, and received this anſwer from him, that for any addreſſe to the King he knew 'twas in vain, by what he had already perceived, but he would riſe and come to him, which viſit as a noble friend he performed,</p>
+            <p>Next morning by the civility of Mr. <hi>Iackſon</hi> Maſter of <hi>Newgate,</hi> he was removed to his former Lodging in the Preſſe-yard, on this condition, that he ſhould be at the charge of two Waiters to guard him in his Chamber, which he gladly embraced; and thereby importunate meſſages got ſpeech with Mr. <hi>Tryan;</hi> to whom he ſaid: Lord! Mr. <hi>Tryan,</hi> what is the rea<g ref="char:EOLhyphen"/>ſon you would not come near me all this while, know<g ref="char:EOLhyphen"/>ing how much my life concerns you, for if I die you
+<pb n="31" facs="tcp:34961:19"/> will loſe 1800 <hi>l.</hi> which you know I owe you, and what good will my blood doe you? to which Mr. <hi>Try<g ref="char:EOLhyphen"/>an</hi> made anſwer, that he was willing to doe any thing that lay in his power (being here remembred of that dreadful Oath he had taken, <hi>&amp;c.</hi> he replied, he was no way unmindful of it, but had not the Law in his hands.) And thereupon he conſented and promiſed to go to the King with a Petition, accompanied with Mrs. <hi>Turner;</hi> and accordingly did deliver on his Knees the ſaid Petition to his Majeſty in the long Gallery, and continued in that poſture of kneeling, plucking the King once or twice by the Cloak as he was going from him, urging his loſs of the 1800 <hi>l,</hi> and his Oath aforeſaid, till the King told him he could not doe it, for that he had received ſuch an account of him from his Judges and the Magiſtrates of the City; and as to his Oath, told him, 'twas not his doing, but the Law, which abſolved him from the obligation of it. He then humbly requeſted Reprieve for ſome few weekes but the King would not conſent to dayes</p>
+            <p>The ſame time he laboured by the Ordinary of the priſon with the Lord Cheif Iuſtice <hi>Hide,</hi> for a reſpite of three or four dayes for better preparation, but nei<g ref="char:EOLhyphen"/>ther could that be obtained.</p>
+            <p>All that <hi>VVedneſday</hi> afternoon, although the Mini<g ref="char:EOLhyphen"/>ſters were with him in diſcourſe, yet upon the com<g ref="char:EOLhyphen"/>ming in of any of his friends or acquaintance, he would abruptly break off, and ask what newes? no hope? nor reſume the conference with the Divines, but with ſome indiſpoſition, ſuch a trouble or fear lay upon
+<pb n="32" facs="tcp:34961:20"/> his ſpirit; notwithſtanding upon ſome occaſions (as his temper was) he could not refrain from his uſuall freaks.</p>
+            <p>Thurſday morning being come (which he ſpent wholly with the Miniſters, and in taking leave of his Wife and Children, both the Sheriff, in perſon were ready to conduct him between the houres of ten and eleven to the place of Execution. When, he came out of the Preſſe-yard, but ſeeing a Cart there prepared, and the Officer bidding him go up, he replied, no, I'le ſpeak with the Sheriff firſt, and thereupon (without moving his Hat) he ſaid to Sir <hi>Richard Ford,</hi> May not I have a Coach? to which Sir <hi>Richard</hi> did anſwer, no, the King hath ordered otherwaies. <hi>Turner</hi> replied, Common Thieves, Felons, and Highway men have had the priviledge to go in a Coach to <hi>Tyburn,</hi> and may not I have the ſame favour? but being again de<g ref="char:EOLhyphen"/>nied, he inſiſted that then he might walk it on foot, which being alſo refuſed he went up into the Cart: then being led by the Officer to ſit down in the Body of the Cart in the uſuall manner, he urged very much that he might be permitted to ride on the Coppes, but it would not be granted, and ſo he was tied accor<g ref="char:EOLhyphen"/>ding to the cuſtome of other Malefactors: At the ſet<g ref="char:EOLhyphen"/>ting forward of the Cart he pulled off his Hat, and ſaid, God be with you Gentlemen, with a cheerful voyce and countenance, which he alſo kept up till the very laſt, when he was perceived a little to change and to tremble. He was accompanied in the Cart by two Miniſters.</p>
+            <pb n="33" facs="tcp:34961:20"/>
+            <p> Being come the place of execution he made a long ſpeech full of tedious tautologies, intending thereby (as is conceived) to ſpin out time in hope of a reprieve. He inſiſted chiefly upon his commiſſion, as an Officer under the Marqueſs of <hi>New caſtle,</hi> for whoſe ſervice he had raiſed a troop conſiſting of 97 men, for whom he ſaid he never received above one monthes pay, and a weeks pay for his officers. He prayed thrice, confeſſed to God and the people his having been a blaſphemer, drinker and debaucher, and asked Gods pardon for the ſame, acknowledging his juſtice in bringing upon him this as a due reward of his wicked life. He purged himſelf from the imputation of having any hand in the fire at <hi>Loathbury.</hi> As alſo from the report that was very riſe about the town, of his having cheated the Lady <hi>Hewet</hi> of 235 <hi>l.</hi> under pretence of ſaving her husbands life; but it appeared to have been done by one Col. <hi>Witton.</hi> After many other un-neceſſary diſcourſes (in ſo much that Mr. Sheriff told him 'twas in vain to lin<g ref="char:EOLhyphen"/>ger) he went out of the Cart and aſcended the ladder, and had the rope put about his neck: he ſumbled with his cap a long while, and with his teeth untyed the Ribbon wherewith his hands were tyed, and then de<g ref="char:EOLhyphen"/>ſired to have them tyed again, which being done, a friend telling him that the rope was on the wrong ſide of his neck, he ſmartly (according to his old humour) ſaid to the executioner, how long haſt thou been a Hangman that thou knoweſt not how to place a hal<g ref="char:EOLunhyphen"/>ter? which being then placed right, he after a ſmal pauſe gathered his cloak about him and gently turned him<g ref="char:EOLhyphen"/>ſelf
+<pb n="34" facs="tcp:34961:21"/> off the ladder, having before given order to the Ex<g ref="char:EOLhyphen"/>ecutioner not to touch him, to whom he gave Forty ſhillings.</p>
+            <p>This was the end of this unhappy perſon, who had lived to an old age in all outward appearance of felici<g ref="char:EOLhyphen"/>ty, and affluence of all worldly pleaſures, which too eagetly and violently purſuing, he ran himſelf out of his life and fortune, having left a numerous and cala<g ref="char:EOLhyphen"/>mitous family behind him, a Wife and ſix Children: <hi>Iohn</hi> and <hi>Ely</hi> (in priſon upon account of the ſame fact) and <hi>Ienkin</hi> his youngeſt Son, with <hi>Mary, Eliſabeth,</hi> and <hi>Anne,</hi> the onely remains of 27. Children by this Wife<g ref="char:punc">▪</g> as they have been both heard to affirm.</p>
+            <p>I could wiſh he had not been guilty of ſome late barbarous and inhumane actions towards the Corps of ſome late executed perſons, whatever they were, and though never ſo juſtly puniſhed; for it is ſeldome ſeen, that thoſe who have no reverence to humane blood, doe ever find reſpect or favour to their own, but come to ſome untimely and diſaſtrous end: beſides that 'tis a moſt inſolent and unmanly thing to triumph in the calamity of another.</p>
+            <p>And here the luſtice of the King is highly to be magnified, who out of conſtancy to his Royal word and Proclamation againſt Looſe, Debauch'd and Vi<g ref="char:EOLhyphen"/>cious perſons hath in all ſuch caſes abated not the leaſt of his ſeverity, but hath given way to the full courſe of the Law, and encouraged his Miniſters to be punctu<g ref="char:EOLhyphen"/>all therein: and may this demonſtration thereof in the example of this Man be a terrour and timely warning
+<pb n="35" facs="tcp:34961:21"/> to all perſons who ſhall preſume upon his innate good<g ref="char:EOLhyphen"/>neſſe and clemency as a ſanctuary for their offences.</p>
+            <p>It is not much more then half a Century ſince Mrs. <hi>Turner</hi> made the like noyſe in the Town, and as if Fate were concerned to keep that flagitious fact in freſh memory, it hath revived it in a maſculine dreſs and more man-like offenſes, by a confidence ſtarcht ſtiffer then were any of her fopperies by her yellow Inventi<g ref="char:EOLhyphen"/>on.</p>
+            <p>We ſhould now give the Render ſome divertiſe<g ref="char:EOLhyphen"/>ment after this ſad ſtory, by a Collection of his Pranks and Exploits, but being loth to exceed this bulk, which is more then enough, we ſhall inſtance onely two, which may ſerve for the reſt.</p>
+            <p>At <hi>York</hi> Aſſiſes, formerly mentioned, the day of his Tryall, he had as many Diſhes of meat as there were Indictments againſt him, all carried up in ſight of the Court by Gentlemen, as he affirmed; at which time he laid a wager of 5 <hi>l.</hi> he ſhould be hang'd that Aſſiſes, which comming to the Sheriff's ear, he acquainted the Court what a mad fellow this <hi>Turner</hi> was; being thereupon called, and demanded his reaſon for ſo do<g ref="char:EOLhyphen"/>ing he anſwered, If he liv'd he did not value the 5 <hi>l.</hi> and if he died it would ſerve to buy Gloves and Rib<g ref="char:EOLhyphen"/>bands for his friends. He eſcaped upon this account, but ſeverall other Gentlemen loſt their lives.</p>
+            <p>His other was at <hi>Colcheſter</hi> aforeſaid, where he hired a wagon (upon his coming to town upon the arreſt of M. <hi>Harvey</hi>'s Father in law) to carry away all the dead he
+<pb n="36" facs="tcp:34961:22"/> ſhould kill, to the affrightment of the fellow, comman<g ref="char:EOLhyphen"/>ding the Oſtler to ſtop up the well in the yard with hay, for not a perſon of them ſhould be put in there, to raiſe ſuch a conceit in the minds of the towns people, he cauſed all the companies drawn ſwords to be hung out of the window.</p>
+            <p>He made the Bell likewiſe to be tolled for own of his company whom he had made dead drunk, and ſent for the chimny ſweeper to be his Doctor, and the ſearchers to view the corps, who ſaid it was a ſweet Corſe, and had ſhillings a peice for their paynes.</p>
+            <p>Theſe and the like Comical Frolicks have ended ve<g ref="char:EOLhyphen"/>ry tragically like a pleaſant way leading to deſtruction. But 'tis to be conceived thoſe whimſeyes were meer<g ref="char:EOLhyphen"/>ly to allay and pacify ſome troubles within, for that they were rather like fits of a poſſeſſed perſon, then the reſults of innocent mirth, but let judgement be left to God.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34961:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
